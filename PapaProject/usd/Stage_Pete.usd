@@ -1,0 +1,62 @@
+#usda 1.0
+
+def Xform "Island" (
+    prepend references = @D:/Unreal/papa/PapaProject/data/Island.usd@
+)
+{
+}
+
+def Xform "Ocean" (
+    prepend references = @D:/Unreal/papa/PapaProject/data/Ocean.usd@
+)
+{
+}
+
+def Xform "Dock" (
+    prepend references = @D:/Unreal/papa/PapaProject/data/Dock2.usd@
+)
+{
+}
+
+def Xform "Tiki_hut" (
+    prepend references = @D:/Unreal/papa/PapaProject/data/Tiki_hut.usd@
+)
+{
+}
+
+def Xform "Pirate_Ship" (
+    prepend references = @D:/Unreal/papa/PapaProject/data/Pirate_ship.usd@
+)
+{
+}
+
+def Xform "Island2Grass" (
+    prepend references = @D:/Unreal/papa/PapaProject/data/Island2Grass.usd@
+)
+{
+}
+
+def Xform "grassGRP" (
+    prepend references = @D:/Unreal/papa/PapaProject/data/grassGRP.usd@
+)
+{
+}
+
+def Xform "mainPalm" (
+    prepend references = @D:/Unreal/papa/PapaProject/data/MainPalmGrp.usd@
+)
+{
+}
+
+def Xform "rockGRP" (
+    prepend references = @D:/Unreal/papa/PapaProject/data/rockGrp.usd@
+)
+{
+}
+
+def Xform "island2Palm" (
+    prepend references = @D:/Unreal/papa/PapaProject/data/Island2Palm.usd@
+)
+{
+}
+
