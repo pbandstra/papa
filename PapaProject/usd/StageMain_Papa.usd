@@ -1,13 +1,13 @@
 #usda 1.0
 (
     subLayers = [
-        @d:/Unreal/papa/PapaProject/usd/Sabrina.usd@,
-        @d:/Unreal/papa/PapaProject/usd/Jin.usd@,
-        @d:/Unreal/papa/PapaProject/usd/De'Jah.usd@,
-        @d:/Unreal/papa/PapaProject/usd/Elijah.usd@,
-        @d:/Unreal/papa/PapaProject/usd/Vanessa.usd@,
-        @d:/Unreal/papa/PapaProject/usd/Props.usd@,
-        @d:/Unreal/papa/PapaProject/usd/Stage_Pete.usd@
+        @De'Jah.usd@,
+        @Stage_Pete.usd@,
+        @Elijah.usd@,
+        @Jin.usd@,
+        @Props.usd@,
+        @Vanessa.usd@,
+        @Sabrina.usd@
     ]
 )
 
