@@ -1,13 +1,7 @@
 #usda 1.0
 (
     subLayers = [
-        @De'Jah.usd@,
-        @Stage_Pete.usd@,
-        @Elijah.usd@,
-        @Jin.usd@,
-        @Props.usd@,
-        @Vanessa.usd@,
-        @Sabrina.usd@
+        @Stage_Pete.usd@
     ]
 )
 

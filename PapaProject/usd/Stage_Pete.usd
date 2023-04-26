@@ -1,4 +1,14 @@
 #usda 1.0
+(
+    subLayers = [
+        @Sabrina.usd@,
+        @Vanessa.usd@,
+        @Jin.usd@,
+        @Elijah.usd@,
+        @De'Jah.usd@,
+        @Matti.usd@
+    ]
+)
 
 def Xform "Island" (
     prepend references = @D:/Unreal/papa/PapaProject/data/Island.usd@
